@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "3311115549",
+    "project_id": "market2home-vendor",
+    "storage_bucket": "market2home-vendor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3311115549:android:01361e4026c9f0f136d5f4",
+        "android_client_info": {
+          "package_name": "com.example.market_2_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3311115549-d93c9fh7thve5hbej11rfbar7j9qe79m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Xo99ZiVV976x6RsJl-BSKkUEI8SSmY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3311115549-d93c9fh7thve5hbej11rfbar7j9qe79m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3311115549:android:af5882c2fa4ce4f436d5f4",
+        "android_client_info": {
+          "package_name": "com.market2home_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3311115549-d93c9fh7thve5hbej11rfbar7j9qe79m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Xo99ZiVV976x6RsJl-BSKkUEI8SSmY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3311115549-d93c9fh7thve5hbej11rfbar7j9qe79m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
