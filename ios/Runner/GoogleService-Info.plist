@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCWGZi_JSL-TBuEFjDnPoPcTf40o1URUGk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>3311115549</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.market2Home</string>
+	<key>PROJECT_ID</key>
+	<string>market2home-vendor</string>
+	<key>STORAGE_BUCKET</key>
+	<string>market2home-vendor.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:3311115549:ios:67ecd534cecb4a2c36d5f4</string>
+</dict>
+</plist>
